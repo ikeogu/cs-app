@@ -1,0 +1,2 @@
+name,email,password,isAdmin,can_pay,salary,status,phone
+pa,pa@gmail.com,12345678,1,10,50000,1,90212002930
